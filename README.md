@@ -1,2 +1,2 @@
 # DVRewards
-A mod for the vr game Derail Valley by Altfuture.
+This is the source for the DVRewards mod for the VR game Derail Valley by Altfuture.
